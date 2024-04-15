@@ -4,3 +4,4 @@ python -  it is a file for Python code in Jupiter notebook and we run that in Vi
 db_one_data (1) -this file for the deep learning 
 New_Low_rating_analysis[1] -relation of age and dress and oth iteams catagories 
 New_Untitled_1[1]- word cloud and and more processing 
+read the Readme.docx for detail explanation of project 
